@@ -40,6 +40,8 @@ To show database connection jdbc-url:
 heroku config
 ```
 
+Setup database connection in the .etc-file
+
 * Push to heroku server
 
 ```bash
